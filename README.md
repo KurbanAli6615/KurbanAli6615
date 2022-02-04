@@ -1,7 +1,7 @@
 ![Hello](final_61fcf3742ea42c0090a05245_843467.gif)
 
 
-## I'm in Pre-final year!
+## I'm in world of coding !
 
 - 🔭 I’m currently working on Flutter and IOS!
 - 🌱 Want to learn everything 🤣
