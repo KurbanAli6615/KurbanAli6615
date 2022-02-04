@@ -40,8 +40,8 @@
 ---
 
 
-<!-- [instagram]: https://www.instagram.com/__.goyal_shagun._/
-[linkedin]: https://www.linkedin.com/in/shagun-goyal/
-[twitter]: https://twitter.com/Shagungoyal25?s=08 -->
+[instagram]: https://www.instagram.com/teen_kurban/
+[linkedin]: https://www.linkedin.com/in/kurbanali-masu-3b4176181/
+[twitter]: https://twitter.com/KurbanAli_6615
 
 ![Shagun's github stats](https://github-readme-stats.vercel.app/api?username=kurbanali6615&count_private=true&show_icons=true&theme=radical)
