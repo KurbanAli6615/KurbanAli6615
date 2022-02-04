@@ -1,4 +1,4 @@
-![Hello](91732-hello.gif | height = "50px")
+![Hello](91732-hello.gif)
 
 
 ## I'm in Pre-final year!
