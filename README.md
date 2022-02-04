@@ -3,11 +3,11 @@
 
 ## I'm in Pre-final year!
 
-- 🔭 I’m currently working on Flutter!
+- 🔭 I’m currently working on Flutter and IOS!
 - 🌱 Want to learn everything 🤣
 - 👯 I’m looking to collaborate with others having same interest as of mine.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to do art and craft work.
+- 🥅 2022 Goals: Contribute more to Open Source projects && Learn something new.
+- ⚡ Fun fact: I love to do Clean Coding.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shagun Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -40,8 +40,8 @@
 ---
 
 
-[instagram]: https://www.instagram.com/__.goyal_shagun._/
+<!-- [instagram]: https://www.instagram.com/__.goyal_shagun._/
 [linkedin]: https://www.linkedin.com/in/shagun-goyal/
-[twitter]: https://twitter.com/Shagungoyal25?s=08
+[twitter]: https://twitter.com/Shagungoyal25?s=08 -->
 
-![Shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun25&count_private=true&show_icons=true&theme=radical)
+![Shagun's github stats](https://github-readme-stats.vercel.app/api?username=kurbanali6615&count_private=true&show_icons=true&theme=radical)
