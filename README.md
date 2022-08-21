@@ -43,7 +43,7 @@
 [linkedin]: https://www.linkedin.com/in/kurbanali-masu-3b4176181/
 [twitter]: https://twitter.com/KurbanAli_6615
 
-![Shagun's github stats](https://github-readme-stats.vercel.app/api?username=kurbanali6615&count_private=true&show_icons=true&theme=radical)
+<!-- ![Shagun's github stats](https://github-readme-stats.vercel.app/api?username=kurbanali6615&count_private=true&show_icons=true&theme=radical) -->
 
 
 
@@ -51,12 +51,12 @@
   <tr>
     <td>
       <a href="https://github.com/thepushkarp">
-        <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=kurbanali6615&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
       <a href="https://github.com/thepushkarp">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkarp&layout=compact&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurbanali6615&layout=compact&theme=tokyonight">
       <a/>
     </td>
    </tr>
