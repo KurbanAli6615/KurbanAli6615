@@ -47,7 +47,7 @@
 
 
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
+<table align="center" cellspacing="0" cellpadding="0" styte="border: none;" border="0">
   <tr>
     <td>
       <a href="https://github.com/thepushkarp">
