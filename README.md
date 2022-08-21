@@ -44,3 +44,20 @@
 [twitter]: https://twitter.com/KurbanAli_6615
 
 ![Shagun's github stats](https://github-readme-stats.vercel.app/api?username=kurbanali6615&count_private=true&show_icons=true&theme=radical)
+
+
+
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/thepushkarp">
+        <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/thepushkarp">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkarp&layout=compact&theme=tokyonight">
+      <a/>
+    </td>
+   </tr>
+</table>
