@@ -50,14 +50,10 @@
 <table align="center" cellspacing="0" cellpadding="0" styte="border: none;" border="0">
   <tr>
     <td>
-      <a href="https://github.com/thepushkarp">
         <img src="https://github-readme-stats.vercel.app/api?username=kurbanali6615&show_icons=true&include_all_commits=true&theme=tokyonight">
-      <a/>
     </td>
     <td>
-      <a href="https://github.com/thepushkarp">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurbanali6615&layout=compact&theme=tokyonight">
-      <a/>
     </td>
    </tr>
 </table>
