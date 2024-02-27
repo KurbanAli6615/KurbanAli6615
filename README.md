@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Flutter and IOS!
 - 🌱 Want to learn everything 🤣
 - 👯 I’m looking to collaborate with others having same interest as of mine.
-- 🥅 2022 Goals: Contribute more to Open Source projects && Learn something new.
+- 🥅 2024 Goals: Contribute more to Open Source projects && Learn something new.
 - ⚡ Fun fact: I love to do Clean Coding.
 
 <!-- ### Spotify Playing 🎧 -->
